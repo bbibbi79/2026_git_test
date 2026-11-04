@@ -1,0 +1,2 @@
+# git test
+# vs code 도 낯설고 git 도 제대로 못하겠고
