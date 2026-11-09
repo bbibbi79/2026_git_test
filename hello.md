@@ -28,6 +28,3 @@
 11/9)
 #. brach 만들어서 되돌리기 : update_brach 새로 생성하여 내용 추가
 - reset 과 달리 사라지지 않는다.
-
-#. revert 되돌리기
-- main 에서 작업중
